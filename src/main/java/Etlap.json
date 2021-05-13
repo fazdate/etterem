@@ -1,0 +1,500 @@
+{
+    "ELŐÉTELEK": [
+        {
+            "nev": "Hízott libamáj zsírjával",
+            "ar": 3650,
+            "leiras": "lilahagymával és almával"
+        },
+        {
+            "nev": "Rakott fej",
+            "ar": 2590,
+            "leiras": "savanyított zöldségekkel • Létai tormával"
+        },
+        {
+            "nev": "Válogatás konyhánkból",
+            "ar": 3350,
+            "leiras": "tatár beefsteak • házunk sonkája • padlizsánkrém • kacsarilett • grillezett zöldség sajttal"
+        },
+        {
+            "nev": "Tatar beefsteak",
+            "ar": 3690,
+            "leiras": ""
+        }
+    ],
+    "LEVESEK": [
+        {
+            "nev": "Kucsmagombakrémleves",
+            "ar": 1490,
+            "leiras": "sajttal • fokhagymás tejhabbal"
+        },
+        {
+            "nev": "Málnaleves, Eckler-fánk",
+            "ar": 1490,
+            "leiras": ""
+        },
+        {
+            "nev": "Marhagulyás velőscsonttal",
+            "ar": 1890,
+            "leiras": ""
+        },
+        {
+            "nev": "Derecskei sáfrányos tyúkhúsleves",
+            "ar": 1190,
+            "leiras": "házi tésztával"
+        },
+        {
+            "nev": "Cheddarsajtkrémes csirkeraguleves",
+            "ar": 1700,
+            "leiras": "enyhén csipősen"
+        }
+    ],
+    "FŐ FOGÁSOK": [
+        {
+            "nev": "Barnacukorral karamellizált libamájas csirkemell",
+            "ar": 3150,
+            "leiras": "burgonyapürével • sült zöldséggel • narancsos zsüvel"
+        },
+        {
+            "nev": "Préselt tanyasi csirke",
+            "ar": 2990,
+            "leiras": "brokkolis rizottóval • sonka chipsszel"
+        },
+        {
+            "nev": "Roston csirkemell sajttal sütve",
+            "ar": 2990,
+            "leiras": "jázminrizzsel • joghurtos salátával"
+        },
+        {
+            "nev": "Tanyasi csirke rántva",
+            "ar": 3120,
+            "leiras": "sült édesburgonyával • tejfölös uborkasalátával"
+        },
+        {
+            "nev": "Rozé kacsamell grillezett almával és camemberttel",
+            "ar": 3350,
+            "leiras": "áfonyamartással • burgonyapürével"
+        },
+        {
+            "nev": "Malacnyelv kagylóval",
+            "ar": 3290,
+            "leiras": "édesburgonyával • borsófőzelékkel"
+        },
+        {
+            "nev": "Omlós szűz almafán füstölve",
+            "ar": 3290,
+            "leiras": "borsópürével • lecsóval • lassan sült burgonyával"
+        },
+        {
+            "nev": "Körmös pacal",
+            "ar": 2900,
+            "leiras": "petrezselymes parázsburgonyával • házi csalamádéval"
+        },
+        {
+            "nev": "Velővel töltött sovány karaj",
+            "ar": 2900,
+            "leiras": "gombamartással • lepcsánkával"
+        },
+        {
+            "nev": "Omlós tarjapecsenye",
+            "ar": 3150,
+            "leiras": "sült hagymával • tepsiben sült tejfölös burgonyával"
+        },
+        {
+            "nev": "Lassan sült tarja gombával",
+            "ar": 3150,
+            "leiras": "babbal • parázsburgonyával"
+        },
+        {
+            "nev": "Óriás rántottszelet",
+            "ar": 3100,
+            "leiras": "házi sültburgonyával • kevert salátával"
+        },
+        {
+            "nev": "Derecskei ropogós csülök öntöttvas lábasban",
+            "ar": 3390,
+            "leiras": "tepsis burgonyával • sülthagymával"
+        },
+        {
+            "nev": "Magyartarka-bélszín szarvasgombás pecsenyével",
+            "ar": 5990,
+            "leiras": "libamájjal • lepcsánkával • grillezett zöldségekkel"
+        },
+        {
+            "nev": "Bélszín garnélával",
+            "ar": 5750,
+            "leiras": "sajtfelfújttal • kápia ropogóssal"
+        },
+        {
+            "nev": "Lángosban sült csípős bélszín",
+            "ar": 4150,
+            "leiras": "házi tejföllel • Gyugos sajttal • ropogós zöldsalátával"
+        },
+        {
+            "nev": "Bőrén sült lazac",
+            "ar": 4490,
+            "leiras": "fűszeres édesburgonya gerezddel • krémsajtos salátával"
+        },
+        {
+            "nev": "Vajban sült tengeri sügér",
+            "ar": 4290,
+            "leiras": "zöldséges rizottóval • citromos hollandi martással"
+        }
+    ],
+    "GYEREKEK": [
+        {
+            "nev": "Husileves",
+            "ar": 1000,
+            "leiras": "sok-sok tésztával"
+        },
+        {
+            "nev": "Vidéki csibefalatok rántva",
+            "ar": 1950,
+            "leiras": "házi burgonyával • majonézzel"
+        },
+        {
+            "nev": "Paradicsomos húsos spagetti",
+            "ar": 1850,
+            "leiras": ""
+        },
+        {
+            "nev": "Miniburger (2db)",
+            "ar": 2290,
+            "leiras": "házi sültburgonyával • ketchuppal vagy majonézzel"
+        },
+        {
+            "nev": "Palacsinta",
+            "ar": 600,
+            "leiras": "almás (a mi almánkból) • túrós • nutellás • kakaós • fenséges baracklekvaros"
+        }
+    ],
+    "HÚSMENTES": [
+        {
+            "nev": "Sajtfelfújt",
+            "ar": 2050,
+            "leiras": "cornflakes bundában sült krokettel • zöldségfagylalttal"
+        },
+        {
+            "nev": "Lepcsánka sült zöldségekkel",
+            "ar": 2050,
+            "leiras": "házi tejföllel • Gyugos sajttal"
+        },
+        {
+            "nev": "Spenótos-sajtkrémes palacsinta rántva",
+            "ar": 2050,
+            "leiras": "nyari kukoricasalátával"
+        }
+    ],
+    "SALÁTÁK": [
+        {
+            "nev": "Ropogós saláta pirított zöldségekkel",
+            "ar": 2100,
+            "leiras": "kukoricamorzsában sült csirkefalatokkal"
+        },
+        {
+            "nev": "Csemegeuborka",
+            "ar": 650,
+            "leiras": ""
+        },
+        {
+            "nev": "Uborkasaláta",
+            "ar": 800,
+            "leiras": ""
+        },
+        {
+            "nev": "Paradicsomsaláta",
+            "ar": 800,
+            "leiras": ""
+        },
+        {
+            "nev": "Köménymagos káposztasaláta",
+            "ar": 700,
+            "leiras": ""
+        },
+        {
+            "nev": "Házi csalamádé",
+            "ar": 650,
+            "leiras": ""
+        },
+        {
+            "nev": "Almapaprika",
+            "ar": 650,
+            "leiras": ""
+        }
+    ],
+    "2 SZEMÉLYES": [
+        {
+            "nev": "Almavirágtál 2 személyre",
+            "ar": 6500,
+            "leiras": "derecskei omlós tarja • sonkával-sajttal töltött sovány karaj • konfitált kacsacomb • rántott sajt • rántott gomba • rántott karfiol • rántott brokkoli • parolt zöldség • házi sültburgonya • jázminrizs"
+        },
+        {
+            "nev": "Grilltál 2 személyre",
+            "ar": 6200,
+            "leiras": "Barbecue oldalas • roston csirkemell • mustaros-fokhagymás tarja • grillkolbász • ropogós csülök • házi cikkburgonya • grillezett zöldség"
+        }
+    ],
+    "DESSZERTEK": [
+        {
+            "nev": "Almás süti",
+            "ar": 1300,
+            "leiras": "karamellizált vaníliafagylalttal • madartejkrémmel"
+        },
+        {
+            "nev": "Sajttorta",
+            "ar": 1490,
+            "leiras": "derecskei meggyel • csokoládéval"
+        },
+        {
+            "nev": "Fehércsoki mousse",
+            "ar": 1650,
+            "leiras": "ribizlivel"
+        },
+        {
+            "nev": "Mákos guba",
+            "ar": 1490,
+            "leiras": ""
+        },
+        {
+            "nev": "Csokoládé fondant",
+            "ar": 1650,
+            "leiras": "vanílliafagylalttal • epervelővel"
+        },
+        {
+            "nev": "Fagyikehely",
+            "ar": 1250,
+            "leiras": "Sajttorta • Csoki • Meggy • Csokis keksz"
+        },
+        {
+            "nev": "Palacsinta",
+            "ar": 600,
+            "leiras": "almás (a mi almánkból) • túrós • nutellás • kakaós • fenséges baracklekvaros"
+        }
+    ],
+    "ALKOHOLMENTES": [
+        {
+            "nev": "100% natúr almalé",
+            "ar": 150,
+            "leiras": "1dl • 100% alma"
+        },
+        {
+            "nev": "Dér juice gyümölcslé 3.3dl",
+            "ar": 690,
+            "leiras": "3.3dl • meggy • alma • cékla almával • almalé homoktövissel • almalé gyömbérrel • almalé bergamottal • almalé feketeribizlivel • almalé őszibarackkal"
+        },
+        {
+            "nev": "Limonádé",
+            "ar": 650,
+            "leiras": "3.5dl • natúr • bodzás • epres • meggyes"
+        },
+        {
+            "nev": "Naturaqua",
+            "ar": 400,
+            "leiras": "3.3dl • dús • mentes"
+        },
+        {
+            "nev": "Römerquelle",
+            "ar": 450,
+            "leiras": "3.3dl • dús • mentes"
+        },
+        {
+            "nev": "Gasztró szikvíz",
+            "ar": 550,
+            "leiras": "9dl • szódavíz"
+        },
+        {
+            "nev": "Szénszavas űditők",
+            "ar": 450,
+            "leiras": "2.5dl • coca-cola • coca-cola zero • coca-cola zero vanilla • fanta • sprite zero • Kinley • Fuzetea"
+        }
+    ],
+    "SÖR": [
+        {
+            "nev": "Soproni",
+            "ar": 560,
+            "leiras": "3dl • csapolt sör"
+        },
+        {
+            "nev": "Mort subiote",
+            "ar": 800,
+            "leiras": "2.5dl • meggysör • csapolt sör"
+        },
+        {
+            "nev": "Edelweiss Hefetrüb",
+            "ar": 750,
+            "leiras": "5dl • palackozott sör"
+        },
+        {
+            "nev": "Heineken, Heineken 0.0%",
+            "ar": 550,
+            "leiras": "3.3dl • palackozott sör"
+        },
+        {
+            "nev": "Gösser natur zitrone",
+            "ar": 550,
+            "leiras": "3.3dl • palackozott sör"
+        },
+        {
+            "nev": "Strongbow",
+            "ar": 650,
+            "leiras": "3.3dl • Gold • Red • Palackozott sör"
+        }
+    ],
+    "RÖVID": [
+        {
+            "nev": "Derecskei fecsegős meggypálinka",
+            "ar": 400,
+            "leiras": "2cl"
+        },
+        {
+            "nev": "Szicsek pálinka",
+            "ar": 600,
+            "leiras": "2cl • ó-szilva • bíbor kajszibarack • birsalma"
+        },
+        {
+            "nev": "Johnie walker",
+            "ar": 400,
+            "leiras": "2cl • whiskey"
+        },
+        {
+            "nev": "Jim beam",
+            "ar": 400,
+            "leiras": "2cl • whiskey"
+        },
+        {
+            "nev": "Jack Daniel's",
+            "ar": 500,
+            "leiras": "2cl • whiskey"
+        },
+        {
+            "nev": "Unicum",
+            "ar": 400,
+            "leiras": "2cl • likőr"
+        },
+        {
+            "nev": "Jägermeister",
+            "ar": 400,
+            "leiras": "2cl • likőr"
+        },
+        {
+            "nev": "Tequila",
+            "ar": 350,
+            "leiras": "2cl"
+        },
+        {
+            "nev": "Henessy",
+            "ar": 900,
+            "leiras": "2cl • cognac"
+        },
+        {
+            "nev": "Kalinka",
+            "ar": 350,
+            "leiras": "2cl • vodka"
+        },
+        {
+            "nev": "Bacardi",
+            "ar": 500,
+            "leiras": "2cl • rum"
+        }
+    ],
+    "BOR": [
+        {
+            "nev": "Dubicz Irsai Olivér",
+            "ar": 350,
+            "leiras": "1dl • fehérbor"
+        },
+        {
+            "nev": "Thummerer Egri királyleányka",
+            "ar": 400,
+            "leiras": "1dl • fehérbor"
+        },
+        {
+            "nev": "Grand tokaj késői cuvée",
+            "ar": 680,
+            "leiras": "1dl • desszertbor"
+        },
+        {
+            "nev": "Grand tokaj szamorodni",
+            "ar": 680,
+            "leiras": "1dl • desszertbor"
+        },
+        {
+            "nev": "Dubicz kékfrankos rozé",
+            "ar": 350,
+            "leiras": "1dl • rosébor"
+        },
+        {
+            "nev": "Sauska villányi rozé",
+            "ar": 470,
+            "leiras": "1dl • rosébor"
+        },
+        {
+            "nev": "Dubicz kékfrankos cuvée",
+            "ar": 350,
+            "leiras": "1dl • vörösbor"
+        },
+        {
+            "nev": "Thummerer Egri bikavér",
+            "ar": 660,
+            "leiras": "1dl • vörösbor"
+        }
+    ],
+    "PEZSGŐ": [
+        {
+            "nev": "Törley Excellence",
+            "ar": 3500,
+            "leiras": "sárga muskotály"
+        },
+        {
+            "nev": "Törley Hungaria",
+            "ar": 4200,
+            "leiras": "Irsai Olivér"
+        },
+        {
+            "nev": "Furlan Prosecco Superiore",
+            "ar": 6850,
+            "leiras": ""
+        },
+        {
+            "nev": "Foss marai",
+            "ar": 8650,
+            "leiras": "marai de extra dry"
+        },
+        {
+            "nev": "Bottega gold spumante",
+            "ar": 12600,
+            "leiras": ""
+        }
+    ],
+    "MELENGETŐK": [
+        {
+            "nev": "Caffe Latte",
+            "ar": 600,
+            "leiras": ""
+        },
+        {
+            "nev": "Cappuccino",
+            "ar": 500,
+            "leiras": ""
+        },
+        {
+            "nev": "Jeges kávé",
+            "ar": 750,
+            "leiras": "fagyival"
+        },
+        {
+            "nev": "Melange",
+            "ar": 750,
+            "leiras": ""
+        },
+        {
+            "nev": "Forró csoki",
+            "ar": 750,
+            "leiras": ""
+        },
+        {
+            "nev": "Tea",
+            "ar": 450,
+            "leiras": "több ízben"
+        }
+    ]
+}
